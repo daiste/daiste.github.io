@@ -1,10 +1,10 @@
 {
 	"Google":"http://www.google.com",
 	"Tabelle Gen":{
-		"Lotti":"#",
-		"Articoli":"#",
+		"Lotti":".",
+		"Articoli":".",
     "Sottomenu":{
-      "aaaaaa":"#",
+      "aaaaaa":".",
       "Articoli":"http://www.google.com"
     }
 	},
