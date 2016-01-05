@@ -1,9 +1,12 @@
 {
 	"Google":"http://www.google.com",
 	"Tabelle Gen":{
-		"Lotti":"http://www.google.com",
-		"Articoli":"http://www.google.com",
-    "Sottomenu":"ciao"
+		"Lotti":"#",
+		"Articoli":"#",
+    "Sottomenu":{
+      "aaaaaa":"#",
+      "Articoli":"http://www.google.com"
+    }
 	},
 	"Tabelle Prod":{
     "Lotti":"http://www.google.com",
