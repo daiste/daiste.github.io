@@ -7,10 +7,16 @@
       "aaaaaa":".",
       "Articoli":"http://www.google.com"
     }
-	},
-	"Tabelle Prod":{
+  },
+
+  "Tabelle Prod":{
     "Lotti":"http://www.google.com",
     "Articoli":"http://www.google.com"
+  },
+  "SERIAL KIT":{
+    "Serial Kit 1":"http://localhost:8080/six/?functionCode=345",
+    "Serial Kit 2":"/six/?functionCode=345",
+    "Serial Kit 3":"?functionCode=345"
   },
   "Tabelle Prod1":{
     "Lotti":"http://www.google.com",
